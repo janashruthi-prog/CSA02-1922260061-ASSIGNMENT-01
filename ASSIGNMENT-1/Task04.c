@@ -1,4 +1,3 @@
-Task04.c
 #include <stdio.h> 
 #define SLAB1_UNITS 100 
 #define SLAB2_UNITS 200 
